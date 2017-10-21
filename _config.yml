@@ -13,12 +13,16 @@ people:
 <<<<<<< HEAD
   pic:
   position: Poetic
+<<<<<<< HEAD
   # social:
 =======
   pic: 
   position: Poet
   social:
 >>>>>>> parent of b9af8ab... deleted extra team members
+=======
+  social:
+>>>>>>> 071795ca59bb2e61a0c61de6a2b416b7dbefb275
     - title: twitter
       url: #
     - title: facebook
