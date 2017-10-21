@@ -9,30 +9,20 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
+#- name:
+#  pic:
+#  position:
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
+
 - name: Graeme Ruck
-<<<<<<< HEAD
-  pic:
-  position: Poetic
-<<<<<<< HEAD
-  # social:
-=======
   pic: 
   position: Poet
-  social:
->>>>>>> parent of b9af8ab... deleted extra team members
-=======
-  social:
->>>>>>> 071795ca59bb2e61a0c61de6a2b416b7dbefb275
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: 
-  pic: 
-  position: 
   social:
     - title: twitter
       url: #
