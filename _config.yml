@@ -12,7 +12,7 @@ people:
 - name: Graeme Ruck
   pic:
   position: Poetic
-  # social:
+  social:
     - title: twitter
       url: #
     - title: facebook
