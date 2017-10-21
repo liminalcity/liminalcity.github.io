@@ -10,36 +10,14 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 people:
 - name: Graeme Ruck
-  pic: 
+  pic:
   position: Poet
-  social:
+  # social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: stack-overflow
-      url: #
-
-- name: 
-  pic: 
-  position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: 
-  pic: 
-  position: 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -50,7 +28,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
