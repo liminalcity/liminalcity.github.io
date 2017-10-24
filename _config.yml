@@ -3,26 +3,15 @@ baseurl: /liminalcity.github.io
 
 # Site settings
 title: Liminal City
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: liminalcity@gmail.com
+description: Somewhere in between
 
 
 # Team names, titles and social links
 people:
-- name:
-#  pic:
-#  position:
-#  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: stack-overflow
-#      url: #
-
 - name: Graeme Ruck
   pic: 
-  position: Poet
+  position: Poet & Editor
   social:
     - title: twitter
       url: #
