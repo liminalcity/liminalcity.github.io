@@ -1,20 +1,35 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ollie Bike Sharing</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+  <div class="container">
+    <div class="nav">
+  		<h2>Ollie</h2>
+   		<ul>
+      	<li>sign up</li>
+     		<li>search bikes</li>
+      	<li>reserve a bike</li>
+      	<li>about us</li>
+    	</ul>
+    </div>
+    <div class="main">
+  		<h1>Liminal City</h1>
+			<h3>Welcome</h3>
+  		<p>Like a pebble casually tossed in a static lake.
+  Like a shout somewhere between mountains.
+  Reverberate back through history and forward to the future.
+  Reflect, ever changing.
+  Refract and return to me.
+    Here is a <a href="cities.html">list</a> of cities where you can find us.</p>
+  		<video width="320" height="240" controls>
+    		<source src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-1/ollie.mp4" type="video/mp4">
+  		</video>
+    </div>
+  </div>
+</body>
 
-<div class="home">
-
-  <h1>Posts</h1>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+</html>
