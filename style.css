@@ -47,6 +47,7 @@ a:active {
   text-align:center;
 }
 .foot {
+  font-size:8px;
   text-align:center;
   float:center;
   position: fixed;
