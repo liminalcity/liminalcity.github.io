@@ -7,6 +7,7 @@
 }
 .menu {
   text-align:center;
+  width:25%;
 }
 .menuitem {
   background-color:#e5e5e5;
@@ -14,8 +15,8 @@
   margin-top:7px;
 }
 .main {
-  float:center;
-  width:60%;
+  float:left;
+  width:80%;
   padding:0 20px;
 }
 .right {
