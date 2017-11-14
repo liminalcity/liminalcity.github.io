@@ -1,6 +1,10 @@
 * {
   box-sizing: border-box;
 }
+.title {
+  float:left;
+  text-align:center;
+}
 .menu {
   float:left;
   width:20%;
