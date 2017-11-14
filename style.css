@@ -6,8 +6,6 @@
   text-align:center;
 }
 .menu {
-  float:left;
-  width:20%;
   text-align:center;
 }
 .menuitem {
@@ -16,7 +14,7 @@
   margin-top:7px;
 }
 .main {
-  float:left;
+  float:center;
   width:60%;
   padding:0 20px;
 }
