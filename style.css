@@ -16,8 +16,9 @@
   float:left;
 }
 .main {
-  width:80%;
+  width:60%;
   padding:20px 20px;
+  float:center;
 }
 .right {
   background-color:#e5e5e5;
