@@ -29,7 +29,7 @@
 }
 .foot {
   text-align:center;
-  float:left;
+  float:center;
 }
 
 @media only screen and (max-width:620px) {
